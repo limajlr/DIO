@@ -1,0 +1,7 @@
+# Project 2 - Flexbox
+
+
+
+INICIADO EM: 23/06/2022
+
+FINALIZADO EM: 26/06/2022
